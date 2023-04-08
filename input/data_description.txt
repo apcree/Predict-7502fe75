@@ -1,0 +1,70 @@
+PropertyType: Identifies the type of property involved in the sale.
+
+	20		House
+	30		Unit
+	
+
+Bed: Number of bedrooms
+
+Bath: Number of bathrooms
+
+Car: Number of car spaces
+
+LandSize: Lot size in square metres
+
+BuildingArea: Building area in square metres (only newer listings)
+
+SalePrice: $Value of last sale
+
+SaleDate: Date of last sale
+
+SaleMonth: Month of last sale
+
+SaleYear: Year of last sale
+
+SettlementDate: Date of last sale settlement
+
+SettlementMonth: Month of last sale settlement
+
+SettlementYear: Year of last sale settlement
+
+SaleType: Type of sale
+
+	NM		Normal Sale
+	UN		Unknown
+	PA		Part Sale
+	FA		Family Sale
+	TR		Transmission By Death
+	MS		Multi-Sale
+	TF		Transfer By Third Party
+	CO		Court Order
+	RE		Rebated Sale
+
+Agency: Real estate agency who reported the sale.
+
+Agent: Real estate broker who reported the sale.
+
+ImproveImprovement:
+Construction:
+LandUse1
+Zoning
+DevelopmentZone
+PrimaryplanLotPlan	
+RPD	
+ValuationNo	
+ValuationType	
+ValuationAmount	
+ValuationDate	
+Owner1Name	
+Owner1Address	
+Owner2Name	
+Owner2Address	
+Owner3Name	
+Owner3Address	
+Vendor1Name	
+Vendor1Address	
+Vendor2Name	
+Vendor2Address	
+Vendor3Name	
+Vendor3Address	
+Relationship
